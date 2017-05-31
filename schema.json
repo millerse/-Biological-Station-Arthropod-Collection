@@ -1,58 +1,58 @@
 {
     "columns": [ {
-      "_comment" : "",
+      "_comment" : "Unique ID for each record",
       "name": "coreid",
-      "titles": "",
+      "titles": "coreid",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "aec:associatedTaxa",
-      "titles": "",
+      "titles": "aec:associatedTaxa",
       "datatype": "string"
             }, {
-      "_comment" : "",
+      "_comment" : "Creative Rights for the dataset",
       "name": "dc:rights",
-      "titles": "",
+      "titles": "dc:rights",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:accessRights",
-      "titles": "",
+      "titles": "dcterms:accessRights",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:bibliographicCitation",
-      "titles": "",
+      "titles": "dcterms:bibliographicCitation",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:language",
-      "titles": "",
+      "titles": "dcterms:language",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:license",
-      "titles": "",
+      "titles": "dcterms:license",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Date the record was modified",
       "name": "dcterms:modified",
-      "titles": "",
+      "titles": "dcterms:modified",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Link to the complete record",
       "name": "dcterms:references",
-      "titles": "",
+      "titles": "dcterms:references",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:rights",
-      "titles": "",
+      "titles": "dcterms:rights",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Rights holder of the dataset",
       "name": "dcterms:rightsHolder",
-      "titles": "",
+      "titles": "dcterms:rightsHolder",
       "datatype": "string" 
            }, {
       "_comment" : "",
