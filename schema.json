@@ -55,854 +55,853 @@
       "titles": "dcterms:rightsHolder",
       "datatype": "string" 
            }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:source",
-      "titles": "",
+      "titles": "dcterms:source",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dcterms:type",
-      "titles": "",
+      "titles": "dcterms:type",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:Identification",
-      "titles": "",
+      "titles": "dwc:Identification",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:MeasurementOrFact",
-      "titles": "",
+      "titles": "dwc:MeasurementOrFact",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:ResourceRelationship",
-      "titles": "",
+      "titles": "dwc:ResourceRelationship",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:VerbatimEventDate",
-      "titles": "",
+      "titles": "dwc:VerbatimEventDate",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:acceptedNameUsage",
-      "titles": "",
+      "titles": "dwc:acceptedNameUsage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:accessRights",
-      "titles": "",
+      "titles": "dwc:accessRights",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:associatedMedia",
-      "titles": "",
+      "titles": "dwc:associatedMedia",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:associatedOccurrences",
-      "titles": "",
+      "titles": "dwc:associatedOccurrences",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:associatedReferences",
-      "titles": "",
+      "titles": "dwc:associatedReferences",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:associatedSequences",
-      "titles": "",
+      "titles": "dwc:associatedSequences",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:associatedTaxa",
-      "titles": "",
+      "_comment" : "Taxon that interacts with the sourceTaxon",
+      "name": "targetTaxonName",
+      "titles": "dwc:associatedTaxa",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "The condition of the sourceTaxon",
       "name": "dwc:basisOfRecord",
-      "titles": "",
+      "titles": "dwc:basisOfRecord",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:bed",
-      "titles": "",
+      "titles": "dwc:bed",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:behavior",
-      "titles": "",
+      "titles": "dwc:behavior",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Unique number of the specimen in the collection",
       "name": "dwc:catalogNumber",
-      "titles": "",
+      "titles": "dwc:catalogNumber",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Class of the sourceTaxon",
       "name": "dwc:class",
-      "titles": "",
+      "titles": "dwc:class",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Collection name code",
       "name": "dwc:collectionCode",
-      "titles": "",
+      "titles": "dwc:collectionCode",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Collection number ID",
       "name": "dwc:collectionID",
-      "titles": "",
+      "titles": "dwc:collectionID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:continent",
-      "titles": "",
+      "titles": "dwc:continent",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:coordinatePrecision",
-      "titles": "",
+      "titles": "dwc:coordinatePrecision",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:coordinateUncertaintyInMeters",
-      "titles": "",
+      "titles": "dwc:coordinateUncertaintyInMeters",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Country where the interaction was recorded",
       "name": "dwc:country",
-      "titles": "",
+      "titles": "dwc:country",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:countryCode",
-      "titles": "",
+      "titles": "dwc:countryCode",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "County where the interaction was recorded",
       "name": "dwc:county",
-      "titles": "",
+      "titles": "dwc:county",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:dataGeneralizations",
-      "titles": "",
+      "titles": "dwc:dataGeneralizations",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:datasetID",
-      "titles": "",
+      "titles": "dwc:datasetID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:datasetName",
-      "titles": "",
+      "titles": "dwc:datasetName",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:dateIdentified",
-      "titles": "",
+      "titles": "dwc:dateIdentified",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Date that the interaction was recorded",
       "name": "dwc:day",
-      "titles": "",
+      "titles": "dwc:day",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:decimalLatitude",
-      "titles": "",
+      "name": "decimalLatitude",
+      "titles": "dwc:decimalLatitude",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:decimalLongitude",
-      "titles": "",
+      "name": "decimalLongitude",
+      "titles": "dwc:decimalLongitude",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:disposition",
-      "titles": "",
+      "titles": "dwc:disposition",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:dynamicProperties",
-      "titles": "",
+      "titles": "dwc:dynamicProperties",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:earliestAgeOrLowestStage",
-      "titles": "",
+      "titles": "dwc:earliestAgeOrLowestStage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:earliestEonOrLowestEonothem",
-      "titles": "",
+      "titles": "dwc:earliestEonOrLowestEonothem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:earliestEpochOrLowestSeries",
-      "titles": "",
+      "titles": "dwc:earliestEpochOrLowestSeries",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:earliestEraOrLowestErathem",
-      "titles": "",
+      "titles": "dwc:earliestEraOrLowestErathem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:earliestPeriodOrLowestSystem",
-      "titles": "",
+      "titles": "dwc:earliestPeriodOrLowestSystem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:endDayOfYear",
-      "titles": "",
+      "titles": "dwc:endDayOfYear",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:establishmentMeans",
-      "titles": "",
+      "titles": "dwc:establishmentMeans",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Date of the collection event",
       "name": "dwc:eventDate",
-      "titles": "",
+      "titles": "dwc:eventDate",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:eventID",
-      "titles": "",
+      "titles": "dwc:eventID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:eventRemarks",
-      "titles": "",
+      "titles": "dwc:eventRemarks",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:eventTime",
-      "titles": "",
+      "titles": "dwc:eventTime",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Family name of the sourceTaxon",
       "name": "dwc:family",
-      "titles": "",
+      "titles": "dwc:family",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:fieldNotes",
-      "titles": "",
+      "titles": "dwc:fieldNotes",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:fieldNumber",
-      "titles": "",
+      "titles": "dwc:fieldNumber",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:footprintSRS",
-      "titles": "",
+      "titles": "dwc:footprintSRS",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:footprintSpatialFit",
-      "titles": "",
+      "titles": "dwc:footprintSpatialFit",
       "datatype": "string"
       }, {
-      "_comment" : "",",
+      "_comment" : "Blank Row",
       "name": "dwc:footprintWKT",
-      "titles": "",
+      "titles": "dwc:footprintWKT",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:formation",
-      "titles": "",
+      "titles": "dwc:formation",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Genus name of the sourceTaxon",
       "name": "dwc:genus",
-      "titles": "",
+      "titles": "dwc:genus",
       "datatype": "string"
       }, {
-           "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:geodeticDatum",
-      "titles": "",
+      "titles": "dwc:geodeticDatum",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:geologicalContextID",
-      "titles": "",
+      "titles": "dwc:geologicalContextID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:georeferenceProtocol",
-      "titles": "",
+      "titles": "dwc:georeferenceProtocol",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:georeferenceRemarks",
-      "titles": "",
+      "titles": "dwc:georeferenceRemarks",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:georeferenceSources",
-      "titles": "",
+      "titles": "dwc:georeferenceSources",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:georeferenceVerificationStatus",
-      "titles": "",
+      "titles": "dwc:georeferenceVerificationStatus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:georeferencedBy",
-      "titles": "",
+      "titles": "dwc:georeferencedBy",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:georeferencedDate",
-      "titles": "",
+      "titles": "dwc:georeferencedDate",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:group",
-      "titles": "",
+      "titles": "dwc:group",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Habitat of the record",
       "name": "dwc:habitat",
-      "titles": "",
+      "titles": "dwc:habitat",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:higherClassification",
-      "titles": "",
+      "titles": "dwc:higherClassification",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:higherGeography",
-      "titles": "",
+      "titles": "dwc:higherGeography",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:higherGeographyID",
-      "titles": "",
+      "titles": "dwc:higherGeographyID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:highestBiostratigraphicZone",
-      "titles": "",
+      "titles": "dwc:highestBiostratigraphicZone",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:identificationID",
-      "titles": "",
+      "titles": "dwc:identificationID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:identificationQualifier",
-      "titles": "",
+      "titles": "dwc:identificationQualifier",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:identificationReferences",
-      "titles": "",
+      "titles": "dwc:identificationReferences",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:identificationRemarks",
-      "titles": "",
+      "titles": "dwc:identificationRemarks",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:identificationVerificationStatus",
-      "titles": "",
+      "titles": "dwc:identificationVerificationStatus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:identifiedBy",
-      "titles": "",
+      "titles": "dwc:identifiedBy",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:individualCount",
-      "titles": "",
+      "titles": "dwc:individualCount",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:informationWithheld",
-      "titles": "",
+      "titles": "dwc:informationWithheld",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "sourceTaxon epithet",
       "name": "dwc:infraspecificEpithet",
-      "titles": "",
+      "titles": "dwc:infraspecificEpithet",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Institution Code of the record",
       "name": "dwc:institutionCode",
-      "titles": "",
+      "titles": "dwc:institutionCode",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:institutionID",
-      "titles": "",
+      "titles": "dwc:institutionID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:island",
-      "titles": "",
+      "titles": "dwc:island",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:islandGroup",
-      "titles": "",
+      "titles": "dwc:islandGroup",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Kingdom of the sourceTaxon",
       "name": "dwc:kingdom",
-      "titles": "",
+      "titles": "dwc:kingdom",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:latestAgeOrHighestStage",
-      "titles": "",
+      "titles": "dwc:latestAgeOrHighestStage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:latestEonOrHighestEonothem",
-      "titles": "",
+      "titles": "dwc:latestEonOrHighestEonothem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:latestEpochOrHighestSeries",
-      "titles": "",
+      "titles": "dwc:latestEpochOrHighestSeries",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:latestEraOrHighestErathem",
-      "titles": "",
+      "titles": "dwc:latestEraOrHighestErathem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:latestPeriodOrHighestSystem",
-      "titles": "",
+      "titles": "dwc:latestPeriodOrHighestSystem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:lifeStage",
-      "titles": "",
+      "titles": "dwc:lifeStage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:lithostratigraphicTerms",
-      "titles": "",
+      "titles": "dwc:lithostratigraphicTerms",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:locality",
-      "titles": "",
+      "name": "localityName",
+      "titles": "dwc:locality",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:locationAccordingTo",
-      "titles": "",
+      "titles": "dwc:locationAccordingTo",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:locationID",
-      "titles": "",
+      "titles": "dwc:locationID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:locationRemarks",
-      "titles": "",
+      "titles": "dwc:locationRemarks",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:lowestBiostratigraphicZone",
-      "titles": "",
+      "titles": "dwc:lowestBiostratigraphicZone",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:materialSampleID",
-      "titles": "",
+      "titles": "dwc:materialSampleID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:maximumDepthInMeters",
-      "titles": "",
+      "titles": "dwc:maximumDepthInMeters",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:maximumElevationInMeters",
-      "titles": "",
+      "titles": "dwc:maximumElevationInMeters",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:member",
-      "titles": "",
+      "titles": "dwc:member",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:minimumDepthInMeters",
-      "titles": "",
+      "titles": "dwc:minimumDepthInMeters",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:minimumElevationInMeters",
-      "titles": "",
+      "titles": "dwc:minimumElevationInMeters",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "The month when the interaction was recorded",
       "name": "dwc:month",
-      "titles": "",
+      "titles": "dwc:month",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:municipality",
-      "titles": "",
+      "titles": "dwc:municipality",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:nameAccordingTo",
-      "titles": "",
+      "titles": "dwc:nameAccordingTo",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:nameAccordingToID",
-      "titles": "",
+      "titles": "dwc:nameAccordingToID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:namePublishedIn",
-      "titles": "",
+      "titles": "dwc:namePublishedIn",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:namePublishedInID",
-      "titles": "",
+      "titles": "dwc:namePublishedInID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:namePublishedInYear",
-      "titles": "",
+      "titles": "dwc:namePublishedInYear",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:nomenclaturalCode",
-      "titles": "",
+      "titles": "dwc:nomenclaturalCode",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:nomenclaturalStatus",
-      "titles": "",
+      "titles": "dwc:nomenclaturalStatus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:occurrenceDetails",
-      "titles": "",
+      "titles": "dwc:occurrenceDetails",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Occurrence record ID",
       "name": "dwc:occurrenceID",
-      "titles": "",
+      "titles": "dwc:occurrenceID",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:occurrenceRemarks",
-      "titles": "",
+      "_comment" : "Notes about the recods",
+      "name": "Notes",
+      "titles": "dwc:occurrenceRemarks",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:occurrenceStatus",
-      "titles": "",
+      "titles": "dwc:occurrenceStatus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Order of the sourceTaxon",
       "name": "dwc:order",
-      "titles": "",
+      "titles": "dwc:order",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:organismID",
-      "titles": "",
+      "titles": "dwc:organismID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:organismName",
-      "titles": "",
+      "titles": "dwc:organismName",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:organismQuantity",
-      "titles": "",
+      "titles": "dwc:organismQuantity",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:organismQuantityType",
-      "titles": "",
+      "titles": "dwc:organismQuantityType",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:originalNameUsage",
-      "titles": "",
+      "titles": "dwc:originalNameUsage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:otherCatalogNumbers",
-      "titles": "",
+      "titles": "dwc:otherCatalogNumbers",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:ownerInstitutionCode",
-      "titles": "",
+      "titles": "dwc:ownerInstitutionCode",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:parentNameUsage",
-      "titles": "",
+      "titles": "dwc:parentNameUsage",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Phylum of the sourceTaxon",
       "name": "dwc:phylum",
-      "titles": "",
+      "titles": "dwc:phylum",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:pointRadiusSpatialFit",
-      "titles": "",
+      "titles": "dwc:pointRadiusSpatialFit",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:preparations",
-      "titles": "",
+      "titles": "dwc:preparations",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:previousIdentifications",
-      "titles": "",
+      "titles": "dwc:previousIdentifications",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:recordNumber",
-      "titles": "",
+      "titles": "dwc:recordNumber",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Person who recorded the record",
       "name": "dwc:recordedBy",
-      "titles": "",
+      "titles": "dwc:recordedBy",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:reproductiveCondition",
-      "titles": "",
+      "titles": "dwc:reproductiveCondition",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:rights",
-      "titles": "",
+      "titles": "dwc:rights",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:rightsHolder",
-      "titles": "",
+      "titles": "dwc:rightsHolder",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:samplingEffort",
-      "titles": "",
+      "titles": "dwc:samplingEffort",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:samplingProtocol",
-      "titles": "",
+      "titles": "dwc:samplingProtocol",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:scientificName",
-      "titles": "",
+      "name": "sourceTaxonName",
+      "titles": "dwc:scientificName",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Authorship of the sourceTaxon name",
       "name": "dwc:scientificNameAuthorship",
-      "titles": "",
+      "titles": "dwc:scientificNameAuthorship",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:scientificNameID",
-      "titles": "",
+      "titles": "dwc:scientificNameID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:sex",
-      "titles": "",
+      "titles": "dwc:sex",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "species name",
       "name": "dwc:specificEpithet",
-      "titles": "",
+      "titles": "dwc:specificEpithet",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Day of the year that the interaction was recorded",
       "name": "dwc:startDayOfYear",
-      "titles": "",
+      "titles": "dwc:startDayOfYear",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "State where the interaction was recorded",
       "name": "dwc:stateProvince",
-      "titles": "",
+      "titles": "dwc:stateProvince",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:subgenus",
-      "titles": "",
+      "titles": "dwc:subgenus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:taxonID",
-      "titles": "",
+      "titles": "dwc:taxonID",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:taxonRank",
-      "titles": "",
+      "titles": "dwc:taxonRank",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:taxonRemarks",
-      "titles": "",
+      "titles": "dwc:taxonRemarks",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:taxonomicStatus",
-      "titles": "",
+      "titles": "dwc:taxonomicStatus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:typeStatus",
-      "titles": "",
+      "titles": "dwc:typeStatus",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimCoordinateSystem",
-      "titles": "",
+      "titles": "dwc:verbatimCoordinateSystem",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimCoordinates",
-      "titles": "",
+      "titles": "dwc:verbatimCoordinates",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimDepth",
-      "titles": "",
+      "titles": "dwc:verbatimDepth",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimElevation",
-      "titles": "",
+      "titles": "dwc:verbatimElevation",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Event date in month day year format",
       "name": "dwc:verbatimEventDate",
-      "titles": "",
+      "titles": "dwc:verbatimEventDate",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimLatitude",
-      "titles": "",
+      "titles": "dwc:verbatimLatitude",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimLocality",
-      "titles": "",
+      "titles": "dwc:verbatimLocality",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimLongitude",
-      "titles": "",
+      "titles": "dwc:verbatimLongitude",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimSRS",
-      "titles": "",
+      "titles": "dwc:verbatimSRS",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:verbatimTaxonRank",
-      "titles": "",
+      "titles": "dwc:verbatimTaxonRank",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:vernacularName",
-      "titles": "",
+      "titles": "dwc:vernacularName",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "dwc:waterBody",
-      "titles": "",
+      "titles": "dwc:waterBody",
       "datatype": "string"
       }, {
-      "_comment" : "",
-      "name": "dwc:year",
-      "titles": "",
-      "datatype": "string"
+      "_comment" : "Year that the record was collected",
+      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
+      "titles": "dwc:year",
+      "datatype": {
+        "base": "date",
+        "format": "yyyy"
+      }
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "fcc:datePicked",
-      "titles": "",
+      "titles": "fcc:datePicked",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "fcc:pickedBy",
-      "titles": "",
+      "titles": "fcc:pickedBy",
       "datatype": ""
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "gbif:Identifier",
-      "titles": "",
+      "titles": "gbif:Identifier",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "gbif:Reference",
-      "titles": "",
-      "datatype": ""
+      "titles": "gbif:Reference",
+      "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "idigbio:preservative",
-      "titles": "",
+      "titles": "idigbio:preservative",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Idigbio unique record ID",
       "name": "idigbio:recordId",
-      "titles": "",
-      "datatype": ""
+      "titles": "idigbio:recordId",
+      "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "idigbio:subfamily",
-      "titles": "",
+      "titles": "idigbio:subfamily",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "idigbio:substrate",
-      "titles": "",
-      "datatype": ""
-      }, {
-      "_comment" : "",
-      "name": "idigbio:superfamily",
-      "titles": "",
+      "titles": "idigbio:substrate",
       "datatype": "string"
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
+      "name": "idigbio:superfamily",
+      "titles": "idigbio:superfamily",
+      "datatype": "string"
+      }, {
+      "_comment" : "Blank Row",
       "name": "symbiota:recordEnteredBy",
-      "titles": "",
+      "titles": "symbiota:recordEnteredBy",
       "datatype": ""
       }, {
-      "_comment" : "",
+      "_comment" : "Blank Row",
       "name": "symbiota:verbatimScientificName",
-      "titles": "",
+      "titles": "symbiota:verbatimScientificName",
       "datatype": "string"
     }]
 }
