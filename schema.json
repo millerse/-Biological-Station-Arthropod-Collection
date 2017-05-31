@@ -1,1 +1,908 @@
-
+{
+    "columns": [ {
+      "_comment" : "",
+      "name": "coreid",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "aec:associatedTaxa",
+      "titles": "",
+      "datatype": "string"
+            }, {
+      "_comment" : "",
+      "name": "dc:rights",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:accessRights",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:bibliographicCitation",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:language",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:license",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:modified",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:references",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:rights",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:rightsHolder",
+      "titles": "",
+      "datatype": "string" 
+           }, {
+      "_comment" : "",
+      "name": "dcterms:source",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dcterms:type",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:Identification",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:MeasurementOrFact",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:ResourceRelationship",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:VerbatimEventDate",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:acceptedNameUsage",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:accessRights",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:associatedMedia",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:associatedOccurrences",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:associatedReferences",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:associatedSequences",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:associatedTaxa",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:basisOfRecord",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:bed",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:behavior",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:catalogNumber",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:class",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:collectionCode",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:collectionID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:continent",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:coordinatePrecision",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:coordinateUncertaintyInMeters",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:country",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:countryCode",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:county",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:dataGeneralizations",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:datasetID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:datasetName",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:dateIdentified",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:day",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:decimalLatitude",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:decimalLongitude",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:disposition",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:dynamicProperties",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:earliestAgeOrLowestStage",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:earliestEonOrLowestEonothem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:earliestEpochOrLowestSeries",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:earliestEraOrLowestErathem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:earliestPeriodOrLowestSystem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:endDayOfYear",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:establishmentMeans",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:eventDate",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:eventID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:eventRemarks",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:eventTime",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:family",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:fieldNotes",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:fieldNumber",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:footprintSRS",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:footprintSpatialFit",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",",
+      "name": "dwc:footprintWKT",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:formation",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:genus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+           "_comment" : "",
+      "name": "dwc:geodeticDatum",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:geologicalContextID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:georeferenceProtocol",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:georeferenceRemarks",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:georeferenceSources",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:georeferenceVerificationStatus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:georeferencedBy",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:georeferencedDate",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:group",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:habitat",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:higherClassification",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:higherGeography",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:higherGeographyID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:highestBiostratigraphicZone",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:identificationID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:identificationQualifier",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:identificationReferences",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:identificationRemarks",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:identificationVerificationStatus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:identifiedBy",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:individualCount",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:informationWithheld",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:infraspecificEpithet",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:institutionCode",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:institutionID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:island",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:islandGroup",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:kingdom",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:latestAgeOrHighestStage",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:latestEonOrHighestEonothem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:latestEpochOrHighestSeries",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:latestEraOrHighestErathem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:latestPeriodOrHighestSystem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:lifeStage",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:lithostratigraphicTerms",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:locality",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:locationAccordingTo",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:locationID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:locationRemarks",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:lowestBiostratigraphicZone",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:materialSampleID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:maximumDepthInMeters",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:maximumElevationInMeters",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:member",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:minimumDepthInMeters",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:minimumElevationInMeters",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:month",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:municipality",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:nameAccordingTo",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:nameAccordingToID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:namePublishedIn",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:namePublishedInID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:namePublishedInYear",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:nomenclaturalCode",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:nomenclaturalStatus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:occurrenceDetails",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:occurrenceID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:occurrenceRemarks",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:occurrenceStatus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:order",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:organismID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:organismName",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:organismQuantity",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:organismQuantityType",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:originalNameUsage",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:otherCatalogNumbers",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:ownerInstitutionCode",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:parentNameUsage",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:phylum",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:pointRadiusSpatialFit",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:preparations",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:previousIdentifications",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:recordNumber",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:recordedBy",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:reproductiveCondition",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:rights",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:rightsHolder",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:samplingEffort",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:samplingProtocol",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:scientificName",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:scientificNameAuthorship",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:scientificNameID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:sex",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:specificEpithet",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:startDayOfYear",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:stateProvince",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:subgenus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:taxonID",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:taxonRank",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:taxonRemarks",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:taxonomicStatus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:typeStatus",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimCoordinateSystem",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimCoordinates",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimDepth",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimElevation",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimEventDate",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimLatitude",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimLocality",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimLongitude",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimSRS",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:verbatimTaxonRank",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:vernacularName",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:waterBody",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "dwc:year",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "fcc:datePicked",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "fcc:pickedBy",
+      "titles": "",
+      "datatype": ""
+      }, {
+      "_comment" : "",
+      "name": "gbif:Identifier",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "gbif:Reference",
+      "titles": "",
+      "datatype": ""
+      }, {
+      "_comment" : "",
+      "name": "idigbio:preservative",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "idigbio:recordId",
+      "titles": "",
+      "datatype": ""
+      }, {
+      "_comment" : "",
+      "name": "idigbio:subfamily",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "idigbio:substrate",
+      "titles": "",
+      "datatype": ""
+      }, {
+      "_comment" : "",
+      "name": "idigbio:superfamily",
+      "titles": "",
+      "datatype": "string"
+      }, {
+      "_comment" : "",
+      "name": "symbiota:recordEnteredBy",
+      "titles": "",
+      "datatype": ""
+      }, {
+      "_comment" : "",
+      "name": "symbiota:verbatimScientificName",
+      "titles": "",
+      "datatype": "string"
+    }]
+}
