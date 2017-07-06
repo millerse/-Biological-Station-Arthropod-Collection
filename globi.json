@@ -4,7 +4,7 @@
   "tables": [
     { "url": "https://www.idigbio.org/portal/search?rq={%22recordset%22:%22db4bb0df-8539-4617-ab5f-eb118aa3126b%22}",
       "dcterms:bibliographicCitation": "https://www.idigbio.org/portal/recordsets/db4bb0df-8539-4617-ab5f-eb118aa3126b",
-      "tableSchema": "occurrence.csv",
+      "tableSchema": "schema.json",
       "headerRowCount": 1,
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002434",
       "interactionTypeName": " interacts with",
