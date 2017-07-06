@@ -1,15 +1,4 @@
-{
-  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
-  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
-  "tables": [
-    { "url": "raw_data.txt",
-      "dcterms:bibliographicCitation": "https://www.idigbio.org/portal/recordsets/db4bb0df-8539-4617-ab5f-eb118aa3126b",
-      "tableSchema": "schema.json",
-      "delimiter": "\t",
-      "headerRowCount": 1,
-      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002434",
-      "interactionTypeName": " interacts with",
-      "null": ["9999999998.0"]
-    }
-      ]
+{ 
+  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
+  "citation": "Sarah E. Miller.  07/06/2017.  Information extracted from dataset https://www.idigbio.org/portal/recordsets/db4bb0df-8539-4617-ab5f-eb118aa3126b."
 }
