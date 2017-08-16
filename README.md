@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/92848229.svg)](https://zenodo.org/badge/latestdoi/92848229)
+[![DOI](https://zenodo.org/badge/92848229.svg)](https://zenodo.org/badge/latestdoi/92848229) [![Travis](https://travis-ci.org/millerse/Biological-Station-Arthropod-Collection.svg)](https://travis-ci.org/millerse/Biological-Station-Arthropod-Collection)
 
 # Biological-Station-Arthropod-Collection
 
